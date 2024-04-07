@@ -24,7 +24,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 ![ERInventory drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/05524721-d25b-4560-b857-d62de58191b6)
 
 # API documentation with Swagger
-(https://app.swaggerhub.com/apis/NAMMMOTAZ_1/inventoryAPI/1.0.0#/)
+(https://app.swaggerhub.com/apis/NAMMMOTAZ_1/inventoryAPI/1.0.0)
 
 The API for the inventory management system has been documented using Swagger, which is a powerful tool for designing, building, and documenting RESTful APIs. Swagger provides a user-friendly interface that allows easy exploration and interaction with API endpoints.
 
