@@ -21,7 +21,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 ![Cinventory-management-system drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/26cf7346-01cf-4391-81cd-0b9c29e8bab0)
 
 # ER Diagram
-![ERInventory drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/34281363-fb19-45d1-a137-35a61873f6cb)
+![ERInventory drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/05524721-d25b-4560-b857-d62de58191b6)
 
 # API documentation with Swagger
 
