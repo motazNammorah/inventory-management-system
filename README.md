@@ -8,7 +8,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 - Suppliers
   
 
-# Features of the system
+# Features of the project
 - Customers: This feature allows you to manage customer information, including their names and contact details. You can easily create new customer records, update existing ones, and retrieve customer data.
 
 - Items: Efficiently manage your inventory items with this feature. You can record essential details such as item names, descriptions, and prices. The system enables you to easily add new items, update existing ones, and retrieve item information.
