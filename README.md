@@ -31,7 +31,7 @@ The API for the inventory management system has been documented using Swagger, w
 By accessing Swagger's documentation, users can readily comprehend the available endpoints, request/response structures, and supported operations. Additionally, it enables direct API testing within the documentation interface, leading to improved efficiency in development and integration tasks.
 
 
-# Prepare the design and documentation for each resource
+# design and documentation for each resource
 [Inventory Management System -1193288.docx](https://github.com/motazNammorah/inventory-management-system/files/14898920/Inventory.Management.System.-1193288.docx)
 
 
