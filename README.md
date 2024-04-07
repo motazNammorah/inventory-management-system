@@ -18,7 +18,7 @@ This application can be used by any small to mid-sized stores to easily maintain
 - Suppliers: This feature makes it easy to manage supplier information, such as company names, contact details, and addresses. It provides features to add new suppliers, update existing records, and retrieve supplier data effortlessly.
 
 # Class Diagram
-![Cinventory-management-system drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/d630e197-d78a-4d39-aa62-6590b43bcf08)
+![Cinventory-management-system drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/26cf7346-01cf-4391-81cd-0b9c29e8bab0)
 
 # ER Diagram
 ![ERInventory drawio](https://github.com/motazNammorah/inventory-management-system/assets/132218702/34281363-fb19-45d1-a137-35a61873f6cb)
